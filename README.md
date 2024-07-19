@@ -2,6 +2,12 @@
 
 https://chatgptwriter.ai
 
+
+https://github.com/user-attachments/assets/87937567-ebce-4b31-8071-df10a21eea47
+
+
+
+
 This is a [Plasmo extension](https://docs.plasmo.com/) project bootstrapped with command: `pnpm create plasmo --with-tailwindcss`.
 
 ## Getting Started
