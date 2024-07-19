@@ -26,7 +26,7 @@ const AiGenContainer = ({
         ...prev,
         prompt: { msg: e },
         reply: {
-          msg: "Thank you for the opportunity! If you have any morse questions or if there's anything else I can help you with, feel free to ask."
+          msg: "Thank you for the opportunity! If you have any more questions or if there's anything else I can help you with, feel free to ask."
         }
       }
     })
